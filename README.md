@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dmitry Shylov</h1>
 <h3 align="center">I'm a Senior Software Engineer with 10 years of experience. Experienced in Back-end technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dmitry-shylov&label=Profile%20views&color=0e75b6&style=flat" alt="dmitry-shylov" /> </p>
-
 - 🔭 I’m currently working on **KastaPay**
 
 <h3 align="left">Connect with me:</h3>

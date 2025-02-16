@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmitry Shylov</h1>
-<h3 align="center">I'm a Senior Software Engineer with 10 years of experience. Experienced in Back-end technologies.</h3>
+<h3 align="center">I'm a Senior Backend Engineer / Lead with 10 years of experience. Experienced in Back-end technologies.</h3>
 
 - 🔭 I’m currently working on **KastaPay**
 
